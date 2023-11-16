@@ -23,6 +23,6 @@ Distress Zone: A Z-Score below a critical level signals financial distress and a
 
 The Altman Z-Score Analyzer is widely used by analysts, investors, and creditors as a tool for financial risk assessment and decision-making. It provides valuable insights into a company's financial health, allowing stakeholders to make informed judgments about its creditworthiness and overall stability.
 
-
+his Streamlit-based project utilizes Altman's Z-Score to assess a company's financial health. With an intuitive interface, users input financial data, and the app calculates the Z-Score, categorizing the company's risk. Streamlit's interactive features enhance user experience, providing a user-friendly tool for quick financial analysis.
 
 
